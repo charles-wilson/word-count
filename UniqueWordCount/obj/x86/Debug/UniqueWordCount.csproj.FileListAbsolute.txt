@@ -1,0 +1,4 @@
+c:\users\godjosep\documents\visual studio 2010\Projects\UniqueWordCount\UniqueWordCount\bin\Debug\UniqueWordCount.exe
+c:\users\godjosep\documents\visual studio 2010\Projects\UniqueWordCount\UniqueWordCount\bin\Debug\UniqueWordCount.pdb
+c:\users\godjosep\documents\visual studio 2010\Projects\UniqueWordCount\UniqueWordCount\obj\x86\Debug\UniqueWordCount.exe
+c:\users\godjosep\documents\visual studio 2010\Projects\UniqueWordCount\UniqueWordCount\obj\x86\Debug\UniqueWordCount.pdb
